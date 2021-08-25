@@ -2,6 +2,8 @@
 
 Java with love. libGDX interactive poster. GeekBrains intensive
 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) ![libGDX](https://img.shields.io/badge/-libGDX-05122A?style=flat&logo=libGDX) ![Interactive](https://img.shields.io/badge/-Interactive-05122A?style=flat&logo=Interactive)
+
 ![Изображение фронтэнда](images/screenshot.png)
 
 По интенсиву GeekBrains.
