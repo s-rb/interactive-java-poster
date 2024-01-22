@@ -6,12 +6,14 @@ Java with love. libGDX interactive poster. GeekBrains intensive
 
 ![Изображение фронтэнда](images/screenshot.png)
 
-По интенсиву GeekBrains.
+Valentine's Day card in **Java** using the **libGDX** library.
 
-Открытка ко дню Святого Валентина на **Java** с использование библиотеки **libGDX**.
+Main characteristics:
+* Hearts fly in a random order, mostly upward.
+* They don’t fly into the central zone, they rest and fly around.
+* The interaction is simple - tracking the position of the mouse and clicks - changes in the direction of movement occur.
+For clarity, it is better to click and move many times.
+  
+Application is built and packaged to [jar](ValentinesDayPoster.jar)
 
-Основные характеристики:
-* Сердца летят в случайном порядке, преимущественно вверх.
-* В центральную зону не залетают, упираются и облетают.
-* Интерактив простой - отслеживание положения мыши и нажатия - происходит изменения направления движения.
-Для наглядности лучше много раз нажимать и двигать. 
+You can run it with command `java -jar ValentinesDayPoster.jar`
